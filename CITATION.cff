@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Solar Wind Data Analyzer"
+authors:
+  - family-names: "Sunny"
+    given-names: "Jibin V."
+version: 0.0.1
+date-released: 2026-11-20
+license: MIT
+repository-code: "https://github.com/Jibinvsunny/Solar-wind-data-analyzer"
