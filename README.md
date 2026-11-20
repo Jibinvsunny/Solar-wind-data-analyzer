@@ -48,7 +48,7 @@ Please acknowledge the OMNI data providers when you use their data in publicatio
 
 ## Author
 
-**Jibin V. Sunny**, space weather and heliophysics researcher (MSc, IIT Indore). Research on corotating interaction regions, interplanetary sheaths and their geomagnetic effects.
+**Jibin V. Sunny** ([ORCID](https://orcid.org/0000-0002-1766-0801) · [Google Scholar](https://scholar.google.com/citations?user=L2yxX8AAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/jibin-v-sunny-b0a897314)), space weather and heliophysics researcher (MSc, IIT Indore). Research on corotating interaction regions, interplanetary sheaths and their geomagnetic effects.
 
 ## License
 
